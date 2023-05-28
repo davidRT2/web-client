@@ -58,7 +58,7 @@
                     <img src="../asset/AdminLTE-3.1.0/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
                 </div>
                 <div class="info">
-                    <a href="#" class="d-block">Muhammad David Akbar</a>
+                    <a href="#" class="d-block">David Tadashi</a>
                 </div>
             </div>
 
